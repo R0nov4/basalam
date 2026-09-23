@@ -156,7 +156,7 @@ python3 poc_public.py cleanup --token <accessToken> --product-id <id> --delete
 
 <div align="center">
 
-**G0odKid** — باگهانتر مستقل
+**G0odKid** — باگ هانتر مستقل
 این مخزن تحت لایسنس MIT منتشر شده — استفاده، کپی و بازنشر آزاد است.
 
 </div>
