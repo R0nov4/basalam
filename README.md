@@ -148,7 +148,9 @@ python3 poc_public.py cleanup --token <accessToken> --product-id <id> --delete
 
 > این انتشار مستقیماً نتیجهی برخورد غیرمسئولانه با گزارش است؛ گزارشی که با یک curl تک خطیِ بدون کوکی قابل تأیید بود و با مرورگر ناشناسِ بدون کوکی alert اجرا میکند.
 
+فایل اثبات مفهوم (PoC) این آسیب‌پذیری در مخزن آپلود شده است[^1].
 
+[^1]: [PoC File](https://github.com/G0odKid/basalam/blob/7925e92715faca65a84ca79edaacae043b66fe28/poc_public.py)
 
 </div>
 
